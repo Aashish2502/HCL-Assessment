@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.card{
+    border: 1px solid black;
+    max-width: 350px;
+    height: 200px;
+    text-align: center;
+    padding: 0 10px;
+}

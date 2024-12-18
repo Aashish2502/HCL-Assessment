@@ -1,0 +1,1 @@
+Hello, please reach out to us at support@example.com. Invalid emails like @example or user@.com should not be considered. Also, CC john.doe@company.org and test.email+123@gmail.com! . This is a test string with some email addresses: test@example.com, another@mail.org, test@sample.in, and a bad_email@.com.
